@@ -4,7 +4,7 @@
 ### Hey!👋 I'm Jonatan and I'm a JavaScript developer from Argentina 
 
 
-## I am learning aeverytime.. 
+## I am learning everytime.. 
 
 
 - :rocket:  - I'm currently working on my own projects..
