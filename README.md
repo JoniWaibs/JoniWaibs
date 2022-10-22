@@ -1,4 +1,4 @@
-### Hey!👋 I'm a Software Engineer specialized in MERN stack from Argentina 
+# Hey!👋 I'm a Software Engineer specialized in MERN stack from Argentina 
 
 
 ## Technologies that I usually work with.. 
@@ -20,7 +20,7 @@
 
 
 
-You can find me on my social networks
+## You can find me on my social networks
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jonatan-waibsnaider-8029ba13b/">
